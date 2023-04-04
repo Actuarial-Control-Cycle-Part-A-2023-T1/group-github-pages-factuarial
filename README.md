@@ -210,8 +210,62 @@ Under increasing emission scenarios, frequency and severity increase which poses
 
 **Example**: increasing the expected number of minor events in 2020 by 10% would reflect a 10% increase in the frequency of minor events across all years and SSP scenarios.
 
-#### Degree of certainty program exceeding 10% of GDP
+### Degree of certainty program exceeding 10% of GDP
 
 Costs of relocation with the program in place lie well below the 10% GDP limit and falls more after the initial 25 years of proactive relocation as costs cease and economic benefits are reaped. For each emission scenario, there is a 99% certainty that the economic costs arising from relocation will remain lower than the following percentages of GDP:
 
 ![image](https://user-images.githubusercontent.com/113433109/229793833-165ce88d-f74d-4d7c-8e9b-955d8baf8a9d.png)
+
+### Degree of certainty of cost-saving with and without program
+
+![image](https://user-images.githubusercontent.com/113433109/229794069-5f954afd-e5ad-43f1-8629-a89ffc4ece0b.png)
+
+In the first 25 years of the program of proactive relocation, the cost of the scheme will outweigh the economic benefits. However, after the end of this period, costs significantly drop and the probability of a loss (annual economic benefit – annual cost) falls to almost 0 - with 98.4% confidence that the annual cost will not outweigh the economic benefit for the years 2045 and beyond. The benefit of this scheme is distributed across all future years as cost savings accumulate with time. As this insurance scheme works as a preventative measure, the initial expenses will be large as the government is investing in long-term economic health.
+
+Total damage (Ꝕ) prevented over full 130 years of relocation implementation:
+![image](https://user-images.githubusercontent.com/113433109/229794135-d449b1f1-74f2-48db-b2e7-837541299b40.png)
+
+---
+
+## Data and Data Limitations
+
+A. No claim data provided per household, only aggregated data per region. Therefore, damage severity to each household was simulated which may not reflect actual experience.
+
+B. No housing availability data within each region and therefore, unable to determine how many people can move to each region, amount of available housing, capacity to build new property and the insufficient data describing infrastructure to support a growing population.
+
+C. Due to a lack of data regarding relocation period length, simplifying assumptions were made that relocation will be concluded in the following year.
+
+D. Unable to account for the impact of private home and contents insurance due to lack of data of coverage, premium prices, and proportion of households with insurance. Home and contents insurance has the potential to impact the insurance scheme. After an event occurs, individuals would now have the option to repair property from insurance and then claim proactive relocation, receiving a higher government pay out than involuntary relocation.
+
+---
+
+## Conclusion
+
+The proposed social insurance scheme provides the framework for involuntary and proactive relocation in which market value compensation is offered for households moving out of high-risk regions. The program provides substantial cost saving measures and requires Ꝕ715 million in capital to ensure solvency, dropping to Ꝕ3 million once proactive relocation has ceased. Given these cost-reduction measures and a reduction in climate risk on property and land, the social insurance scheme is heavily recommended for implementation in Storslysia.
+
+---
+
+## References
+
+Botzen, W.W, Deschenes, O, and Sanders, M 2019, ‘The economic impacts of natural disasters: A review of models and empirical studies’ Review of Environmental Economics and Policy, accessed 12 March 2023
+
+Department of Regional NSW, North Rivers’ voluntary buy backs to start 2022, NSW Government, Canberra, accessed 20 March <https://www.nsw.gov.au/media-releases/northern-rivers-voluntary-home-buy-backs-to-start>
+
+Hino, M, Field, C, & Mach, K 2017 ‘Managed retreat as a response to natural hazard risk. Nature Climate Change’, vol.7, pg. 364-370, accessed 12 March 2023, <https://doi.org/10.1038/nclimate3252>
+
+Kożuch, A, Cywicka, D, & Adamowicz, K 2023 ‘A comparison of artificial neural network and time series models for timber price forecasting,’ Forests, vol. 14, no. 2, p.177, accessed 15 March 2023, <https://doi.org/10.3390/f14020177>
+
+Lindell, M.K. Murray-Tuite, P, Wolshon, B, & Baker, E.J 2018, ‘Large-scale evacuation: The analysis, modeling, and management of emergency relocation from hazardous areas’, CRC press, accessed 14 March 2023
+
+Morgan, C.L 2023, ‘Making moves on managed retreat’, Lexology, accessed 12 March, < https://www.lexology.com/library/detail.aspx?g=2aadabd5-d4e0-4b8b-bb79-ca5595f1b2e4>
+
+Paddam, S, Liu, C & Philip, S 2022, ‘Home insurance affordability and socioeconomic equity in a changing climate’ Green Paper Actuaries Institute, accessed 15 March 2023, < https://actuaries.asn.au/Library/Opinion/2022/HIAGreenPaper.pdf>
+
+Settle, A 2022, ‘After the Floods, the distressing by necessary case for managed retreat’ Prevention Web, accessed 13 March 2023, <https://www.preventionweb.net/news/after-floods-distressing-necessary-case-managed-retreat>
+
+Small, Z & Cook, A 2022, ‘Insurance, property and who pays: Government seeks feedback on climate change managed retreat’, NewsHub., accessed 15 March 2023 <https://www.newshub.co.nz/home/politics/2022/04/insurance-property-transfer-and-who-pays-government-seeks-feedback-on-climate-change-managed-retreat.html>
+
+Sortberg, A n.d., ‘Causes of Climate Change: The Radiative Forcing Concept’ Future Learn, accessed 20 March 2023, <https://www.futurelearn.com/info/courses/causes-of-climate-change/0/steps/13583#:~:text=A%20radiative%20forcing%20is%20an,aerosols%2C%20and%20their%20precursors>
+
+Zuanettim, DA, Diniz, CAR & Leite, JG n.d., ‘A Lognormal Model for Insurance Claims Data.’ REVSTAT - Statistical Journal, vol. 4, no. 2, accessed 15 March 2023, <https://www.ine.pt/revstat/pdf/rs060203.pdf>
+
