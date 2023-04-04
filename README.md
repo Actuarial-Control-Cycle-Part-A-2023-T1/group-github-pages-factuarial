@@ -266,6 +266,6 @@ Small, Z & Cook, A 2022, ‘Insurance, property and who pays: Government seeks f
 
 Sortberg, A n.d., ‘Causes of Climate Change: The Radiative Forcing Concept’ Future Learn, accessed 20 March 2023, <https://www.futurelearn.com/info/courses/causes-of-climate-change/0/steps/13583#:~:text=A%20radiative%20forcing%20is%20an,aerosols%2C%20and%20their%20precursors>
 
-Zuanettim, DA, Diniz, CAR & Leite, JG n.d., ‘A Lognormal Model for Insurance Claims Data.’ REVSTAT - Statistical Journal, vol. 4, no. 2, accessed 15 March 2023, <https://www.ine.pt/revstat/pdf/rs060203.pdf>
+Zuanettim, DA, Diniz, CAR & Leite, JG n.d. ‘A Lognormal Model for Insurance Claims Data.’ REVSTAT - Statistical Journal, vol. 4, no. 2, accessed 15 March 2023, <https://www.ine.pt/revstat/pdf/rs060203.pdf>
 
 
