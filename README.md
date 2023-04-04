@@ -178,6 +178,21 @@ Implement counselling and support programs to console and assist families. Promo
 ![image](https://user-images.githubusercontent.com/113433109/229792481-fe868dc6-d0e2-4590-acae-c6d356fc5f78.png)
 
 ### Quantifiable risk
-
 #### *Local businesses will be affected as customers relocate out of high-risk regions.*
 
+Possible mitigation includes providing financial assistance such as cash-back deals, vouchers, and increased marketing of small businesses. Further assistance may also be provided to small business to relocate to low-risk regions to promote sales. Approximately Ꝕ89mil, Ꝕ18mil and Ꝕ12mil decline in sales are expected in regions 2, 3 and 4 respectively. (Appendix, L)
+
+#### *The government pay-out is insufficient to purchase a new property in a low-risk region due to a lower value property market in certain regions.*
+
+Property values in low-risk regions will be significantly higher than areas of high-risk as market prices encapsulate climate risk to property and land. Therefore, pay-outs may be insufficient to purchase new property. Approximately, Ꝕ32,061 difference between average property value and the minimum threshold of Ꝕ150,000. (Appendix, M)
+
+#### *Climate circumstances may worsen and result in larger severities and frequencies of natural disasters.*
+
+Under increasing emission scenarios, frequency and severity increase which poses greater risk to property and land. Mitigation therefore includes using bought-back land as renewable energy farms, encourage upgrades to eco-friendly appliances and invest in sustainable infrastructure.
+
+### Sensitivity Analysis
+
+**Standard deviation**: Adjusting the change in standard deviation used in log normal model.
+**Impact**: Change in the average proportion of damages incurred on each house after an event.
+
+![image](https://user-images.githubusercontent.com/113433109/229793443-6d87c996-7b5a-4674-abae-09db3aebe284.png)
