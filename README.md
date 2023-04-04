@@ -5,8 +5,6 @@ FACTUARIAL - University of New South Wales
 
 Jessica Bardin, Yo Hwan Shin, Dieu Nghi Banh, Christina Shi, and Jadon Yip
 
-![giphy](https://user-images.githubusercontent.com/129859899/229799512-be987e76-f3f9-468a-addb-e5a73d6642ef.gif)
-
 ## Executive Summary
 
 Weather events have the potential to displace many families and businesses through damage incurred on property. In order to avoid the costs associated with continuous property damage as weather events are projected to increase in both frequency and severity, relocation efforts provide a long-term solution in which climate risk is effectively removed from households.
