@@ -75,10 +75,15 @@ However, relocation under the proposed programs do not cover the full relocation
 ### Incentives for proactive relocation
 
 Incentives to encourage voluntary, proactive relocation rather than involuntary relocation:
+
 • Deductible waivers: Reduce out-of-pocket insurance expenses for homeowners in the event of damage.
+
 • Improved home safety features: Offer discounts to technologies such as security systems, smoke detectors, house alarms and natural peril resistant measures such as improved roofing, reinforced glass for windows and fire-resistant materials.
+
 • Moving services: Assist in the relocation process by providing removalists, trucks, and other features. Potentially cover moving expenses for lower property value distribution.
+
 • Green incentives: Discounts or free sustainable upgrades to technology such as solar panels, and rainwater tanks.
+
 • Community and council agreements can also be made in which residents are encouraged to move to their regions and in turn offered discounts on relocation costs or housing. Reduced strata rates for apartments, council fees for housing and priority in buying houses can further incentivise people to relocate to safer regions.
 
 ### Additional key features
