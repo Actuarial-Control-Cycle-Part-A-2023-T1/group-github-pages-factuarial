@@ -193,6 +193,25 @@ Under increasing emission scenarios, frequency and severity increase which poses
 ### Sensitivity Analysis
 
 **Standard deviation**: Adjusting the change in standard deviation used in log normal model.
+
 **Impact**: Change in the average proportion of damages incurred on each house after an event.
 
 ![image](https://user-images.githubusercontent.com/113433109/229793443-6d87c996-7b5a-4674-abae-09db3aebe284.png)
+
+**Truncation**: Adjusting the limits imposed on possible damage proportions. 
+
+**Impact**: Changes in the average proportion damages incurred on each house after an event.
+
+![image](https://user-images.githubusercontent.com/113433109/229793593-dfdf4f44-b2bd-46fb-a46e-eeedbd217260.png)
+
+**Frequency**: Adjusting the inputs into the frequency model (number of events in 2020).
+
+**Impact**: For all SSP scenarios and classification of events, any change in inputs to frequency will result in a proportional change in projected frequencies.
+
+**Example**: increasing the expected number of minor events in 2020 by 10% would reflect a 10% increase in the frequency of minor events across all years and SSP scenarios.
+
+#### Degree of certainty program exceeding 10% of GDP
+
+Costs of relocation with the program in place lie well below the 10% GDP limit and falls more after the initial 25 years of proactive relocation as costs cease and economic benefits are reaped. For each emission scenario, there is a 99% certainty that the economic costs arising from relocation will remain lower than the following percentages of GDP:
+
+![image](https://user-images.githubusercontent.com/113433109/229793833-165ce88d-f74d-4d7c-8e9b-955d8baf8a9d.png)
