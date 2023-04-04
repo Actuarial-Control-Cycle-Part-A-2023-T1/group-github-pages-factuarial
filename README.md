@@ -138,7 +138,7 @@ The economic costs without the program varies under the four emission scenarios 
 
 ---
 ## Assumptions
-A.Damage proportion caused by houses by each class of event is assumed to follow log-normal distribution with mean of 0 and normal deviation added to simulate randomness. Distribution is right skewed and non-negative which largely conforms to claim expectations. Standard deviation fitted so projects would fall within historical expectations.
+A. Damage proportion caused by houses by each class of event is assumed to follow log-normal distribution with mean of 0 and normal deviation added to simulate randomness. Distribution is right skewed and non-negative which largely conforms to claim expectations. Standard deviation fitted so projects would fall within historical expectations.
 
 B. Property damage proportions for each type of event falls within the following ranges:
 Major: 0-70%, Minor: 0-10%, Medium: 0-30%. These ranges appeared to be the most appropriate under our classifications of events.
@@ -158,3 +158,26 @@ H. No government intervention to build new houses. Invisible Hand Principle: sup
 I. All housing costs (including property value) will rise with projected inflation. Governments will likely implement policies to prevent abnormally inflated property prices in safe regions.
 
 J. Citizens relocating will be completed beginning of the following year to simplify the model.
+
+---
+## Risk and Risk Mitigation Strategies
+
+### Qualitative risk
+#### *Issues with accessibility to workplaces and employment transition upon relocation*
+
+Government can offer payments for individuals over the age of 18 and those actively seeking new employment after relocation. These payments will be available for one year or until the individual is able to find employment. New regulations can also be enforced for a hybrid working environment within workplaces to assist the citizens in adjusting to new workplaces.
+
+#### *Desertion of high-risk areas upon relocation*
+
+Utilise empty land for sustainable activities such as tree plantations, solar farms, and wind farms to help control the emission levels apart from having a use in those empty areas. Land can also be used for community gardens to encourage more social interactions and community bonding.
+
+#### *Emotional distress and anxiety due to sudden relocation.*
+
+Implement counselling and support programs to console and assist families. Promote and organise community events to elevate a sense of belonging and inclusivity.
+
+![image](https://user-images.githubusercontent.com/113433109/229792481-fe868dc6-d0e2-4590-acae-c6d356fc5f78.png)
+
+### Quantifiable risk
+
+#### *Local businesses will be affected as customers relocate out of high-risk regions.*
+
