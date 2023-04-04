@@ -39,29 +39,20 @@ The proposed social insurance program is designed to assist the citizens of Stor
 
 The main objectives of our proposed program design:
 
- • Effectively reduce displacement risk arising from relocations by offering government and insurance support in social, economic, and psychological factors.
-
- • Provide long term solutions - by remove climate risk from high-risk households it reduces continually incurred insurance losses from severe weather events.
-
- • Reduce financial burdens on homeowners from property damages incurred by severe weather events and rising home insurance premiums.
-
- • Reduce the risk of natural hazards, reduce the risk posed to people, property, and infrastructure by moving communities away from high-risk areas.
-
- • Ensuring social equity, needs and interest of all members, including low-income residents and marginalised populations. Ensuring the scheme is fair and accessible.
+- Effectively reduce displacement risk arising from relocations by offering government and insurance support in social, economic, and psychological factors.
+- Provide long term solutions - by remove climate risk from high-risk households it reduces continually incurred insurance losses from severe weather events.
+- Reduce financial burdens on homeowners from property damages incurred by severe weather events and rising home insurance premiums.
+- Reduce the risk of natural hazards, reduce the risk posed to people, property, and infrastructure by moving communities away from high-risk areas.
+- Ensuring social equity, needs and interest of all members, including low-income residents and marginalised populations. Ensuring the scheme is fair and accessible.
 
 Key metrics to be reported and used to monitor the proposed program’s success:
 
- • Number of households relocated successfully from high-risk areas to low-risk areas. Reported quarterly.
-
- • Reduction in property damage costs following a hazard event. Reported quarterly.
-
- • Cost savings, comparing relocation costs under the relocation program with post-disaster recovery costs. Reported quarterly.
-
- • Reduction in loss of life and injuries by displacing individuals from high risk to low-risk areas. Reported annually.
-
- • Economic benefits, increase to GDP. Reported annually.
-
- • Greenhouse gas emissions, through the subsidisation and additional incentives to use renewable energy sources and low-carbon materials. Reported annually.
+- Number of households relocated successfully from high-risk areas to low-risk areas. Reported quarterly.
+- Reduction in property damage costs following a hazard event. Reported quarterly.
+- Cost savings, comparing relocation costs under the relocation program with post-disaster recovery costs. Reported quarterly.
+- Reduction in loss of life and injuries by displacing individuals from high risk to low-risk areas. Reported annually.
+- Economic benefits, increase to GDP. Reported annually.
+- Greenhouse gas emissions, through the subsidisation and additional incentives to use renewable energy sources and low-carbon materials. Reported annually.
 
 It is recommended to report on these key metrics on a regular basis, quarterly or annually to ensure the program is being tracked and assessed in meeting its objectives. Regular reporting also allows for continual adjustments to be made to promote efficacy and longevity.
 
@@ -87,15 +78,11 @@ However, relocation under the proposed programs do not cover the full relocation
 
 Incentives to encourage voluntary, proactive relocation rather than involuntary relocation:
 
- • Deductible waivers: Reduce out-of-pocket insurance expenses for homeowners in the event of damage.
-
- • Improved home safety features: Offer discounts to technologies such as security systems, smoke detectors, house alarms and natural peril resistant measures such as improved roofing, reinforced glass for windows and fire-resistant materials.
-
- • Moving services: Assist in the relocation process by providing removalists, trucks, and other features. Potentially cover moving expenses for lower property value distribution.
-
- • Green incentives: Discounts or free sustainable upgrades to technology such as solar panels, and rainwater tanks.
-
- • Community and council agreements can also be made in which residents are encouraged to move to their regions and in turn offered discounts on relocation costs or housing. Reduced strata rates for apartments, council fees for housing and priority in buying houses can further incentivise people to relocate to safer regions.
+ - Deductible waivers: Reduce out-of-pocket insurance expenses for homeowners in the event of damage.
+ - Improved home safety features: Offer discounts to technologies such as security systems, smoke detectors, house alarms and natural peril resistant measures such as improved roofing, reinforced glass for windows and fire-resistant materials.
+ - Moving services: Assist in the relocation process by providing removalists, trucks, and other features. Potentially cover moving expenses for lower property value distribution.
+ - Green incentives: Discounts or free sustainable upgrades to technology such as solar panels, and rainwater tanks.
+ - Community and council agreements can also be made in which residents are encouraged to move to their regions and in turn offered discounts on relocation costs or housing. Reduced strata rates for apartments, council fees for housing and priority in buying houses can further incentivise people to relocate to safer regions.
 
 ### Additional key features
 
