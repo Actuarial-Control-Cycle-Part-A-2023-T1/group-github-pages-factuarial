@@ -124,4 +124,14 @@ This program feature aims to assist those of low socio-economic status so that t
 ![image](https://user-images.githubusercontent.com/113433109/229791516-b7027e5d-67f0-4a15-8674-b455eca69003.png) 
 ![image](https://user-images.githubusercontent.com/113433109/229791531-819ac7a3-e1bd-4c0e-8b27-71be656196b1.png)
 
+The source of program costs primarily come from the proactive relocation feature of the scheme. The scheme heavily prioritises and encourages proactive relocation within the 25 years it is being offered and thus, with so many houses being bought back, costs to the government will initially be high. Thus, proactive relocation is the dominant source of expenditure throughout the program’s first 25 years as observed in the figures below. Involuntary costs decrease over time for the SSP1 and SSP2 emission scenarios, but for higher emissions scenarios, we see a growth over time, especially for SSP4. This justifies the large costs incurred for proactive relocation as it is more beneficial to quickly reduce the number of houses exposed, than allow them to be impacted by the severe natural disasters of the high emission scenarios.
 
+Thus, it is recommended to initially hold Ꝕ715 million in capital to ensure the risk of insolvency is below 0.01% for all emission scenarios. Once proactive relocation is no longer offered, from 2050 onwards, capital holdings can decrease dramatically to 3 million. The program will no longer see high levels of activity beyond 2050 as most high-risk homes have already been relocated to maximise economic benefit. (Appendix, K)
+
+![image](https://user-images.githubusercontent.com/113433109/229791651-9a767be3-ad99-46e5-82e8-aef959702403.png)
+
+However, this capital structure may not be ideal for implementation - a possible strategy to mitigate this sudden change in capital holdings would be to offer the payout as an annuity over several years (20 years) to smooth out the distribution of costs.
+
+![image](https://user-images.githubusercontent.com/113433109/229791694-4e30bd96-fc97-494d-86e3-ce7b4a48c06e.png)
+
+The economic costs without the program varies under the four emission scenarios with the most notable being under a very high emission scenario in which cost rise exponentially. These figures exceed the cost with the program as recovery efforts and continuous property damages are sustained to households in high-risk areas. It is therefore in the governments best interest to implement the proposed scheme to reduce the cost post-disaster and eliminate climate risk from high-risk households.
