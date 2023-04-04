@@ -269,3 +269,4 @@ Sortberg, A n.d., ‘Causes of Climate Change: The Radiative Forcing Concept’ 
 
 Zuanettim, DA, Diniz, CAR & Leite, JG n.d., ‘A Lognormal Model for Insurance Claims Data.’ REVSTAT - Statistical Journal, vol. 4, no. 2, accessed 15 March 2023, <https://www.ine.pt/revstat/pdf/rs060203.pdf>
 
+
