@@ -135,3 +135,26 @@ However, this capital structure may not be ideal for implementation - a possible
 ![image](https://user-images.githubusercontent.com/113433109/229791694-4e30bd96-fc97-494d-86e3-ce7b4a48c06e.png)
 
 The economic costs without the program varies under the four emission scenarios with the most notable being under a very high emission scenario in which cost rise exponentially. These figures exceed the cost with the program as recovery efforts and continuous property damages are sustained to households in high-risk areas. It is therefore in the governments best interest to implement the proposed scheme to reduce the cost post-disaster and eliminate climate risk from high-risk households.
+
+---
+## Assumptions
+A.Damage proportion caused by houses by each class of event is assumed to follow log-normal distribution with mean of 0 and normal deviation added to simulate randomness. Distribution is right skewed and non-negative which largely conforms to claim expectations. Standard deviation fitted so projects would fall within historical expectations.
+
+B. Property damage proportions for each type of event falls within the following ranges:
+Major: 0-70%, Minor: 0-10%, Medium: 0-30%. These ranges appeared to be the most appropriate under our classifications of events.
+
+C. Natural disasters occurring across multiple regions are considered as different and independent events. The modelling approach projects disasters in each region individually.
+
+D. Stamp duty, administration fees, taxes or real estate commission are not included in total costs of relocation. There is a lack of data to account for these costs within the model.
+
+E. Population size of each region will grow proportionally to the projected world population. No other information provided on Storslysia’s population growth.
+
+F. Storslysia GDP will grow proportionally to the projected increase in global GDP. No other information provided on Storslysia’s GDP growth.
+
+G. Citizens will relocate to a house of equal value to their existing property. Most citizens will purchase property of comparable value so any deviation in cost will likely even out.
+
+H. No government intervention to build new houses. Invisible Hand Principle: supply for houses will meet demand as construction companies identify opportunities of business.
+
+I. All housing costs (including property value) will rise with projected inflation. Governments will likely implement policies to prevent abnormally inflated property prices in safe regions.
+
+J. Citizens relocating will be completed beginning of the following year to simplify the model.
