@@ -7,7 +7,7 @@ FACTUARIAL | University of New South Wales
 Jessica Bardin, Yo Hwan Shin, Dieu Nghi Banh, Christina Shi, and Jadon Yip
 
 ---
-##Executive Summary
+## Executive Summary
 Weather events have the potential to displace many families and businesses through damage incurred on property. In order to avoid the costs associated with continuous property damage as weather events are projected to increase in both frequency and severity, relocation efforts provide a long-term solution in which climate risk is effectively removed from households.
 
 The primary objective of the proposed program is to reduce displacement risk, increase the safety of residents, provide long-term solutions from property damage costs, reduce financial burden for property owners and reduce the risk of natural hazards sustained by property. To assess the program’s success, the number of households successfully relocated, reduction in property damages and reduction in loss and life will be monitored quarterly and annually.
