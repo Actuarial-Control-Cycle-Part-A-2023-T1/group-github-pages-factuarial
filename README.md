@@ -117,3 +117,11 @@ This program feature aims to assist those of low socio-economic status so that t
 ### Timeline
 
 ![image](https://user-images.githubusercontent.com/113433109/229790786-9dd17b9e-6086-473d-87b4-9be7bd48e371.png)
+
+---
+
+## Pricing and Costs
+![image](https://user-images.githubusercontent.com/113433109/229791516-b7027e5d-67f0-4a15-8674-b455eca69003.png) 
+![image](https://user-images.githubusercontent.com/113433109/229791531-819ac7a3-e1bd-4c0e-8b27-71be656196b1.png)
+
+
