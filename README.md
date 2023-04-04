@@ -5,8 +5,9 @@ FACTUARIAL - University of New South Wales
 
 Jessica Bardin, Yo Hwan Shin, Dieu Nghi Banh, Christina Shi, and Jadon Yip
 
----![giphy](https://user-images.githubusercontent.com/129859899/229798556-290c8702-cd0f-4814-bb2e-a24bbdfa9a69.gif)
----![giphy](https://user-images.githubusercontent.com/129859899/229799146-e8ac603c-5034-47e1-a57a-52332949abb5.gif)
+![giphy](https://user-images.githubusercontent.com/129859899/229798556-290c8702-cd0f-4814-bb2e-a24bbdfa9a69.gif)
+![giphy](https://user-images.githubusercontent.com/129859899/229799146-e8ac603c-5034-47e1-a57a-52332949abb5.gif)
+![giphy](https://user-images.githubusercontent.com/129859899/229799512-be987e76-f3f9-468a-addb-e5a73d6642ef.gif)
 
 ## Executive Summary
 
