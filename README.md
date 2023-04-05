@@ -1,4 +1,3 @@
-
 # 2023 SOA RELOCATION SOCIAL INSURANCE SCHEME
 
 FACTUARIAL - University of New South Wales
@@ -22,7 +21,7 @@ It is within the government’s best interest to implement an insurance program 
 ## Introduction and Background
 Natural disasters can have devastating consequences on human lives, property, and infrastructure. The damage sustained from extreme weather events including but not limited to droughts, bushfires, hail, storms, tornadoes, cyclones have potential to destroy buildings and displace families and businesses. As the frequency and severity of extreme weather events are projected to increase, the cost of property repairs and home insurance will become exceptionally high, leaving many people uninsured, underinsured, and unprotected. This calls to action a long-term solution to effectively and efficiently mitigate climate risk to individuals in Storslysia.
 
-This report considers five Shared Socioeconomic Pathways (SSP) as outlined by the Intergovernmental Panel on Climate Change (IPPC) in which property damage, frequency, population, and GDP are modelled under (Appendix, A). The frequency and severity of natural hazards are then modelled under these emission assumptions. The SSPs are combined with radiative forcing per square metre which measures the change in energy flux imposed by climate change to create four key emission scenarios (SSP1-2.6, SSP2-3.4, SSP3-6.0 and SSP5-Baseline). The forcing figures can encapsulate changes in “solar energy output, volcanic emissions, deliberate land modification, anthropogenic emissions of greenhouse gases, aerosols, and their precursors” (Sorteberg, n.d.).
+This report considers five Shared Socioeconomic Pathways (SSP) as outlined by the Intergovernmental Panel on Climate Change (IPPC) in which property damage, frequency, population, and GDP are modelled under. The frequency and severity of natural hazards are then modelled under these emission assumptions. The SSPs are combined with radiative forcing per square metre which measures the change in energy flux imposed by climate change to create four key emission scenarios (SSP1-2.6, SSP2-3.4, SSP3-6.0 and SSP5-Baseline). The forcing figures can encapsulate changes in “solar energy output, volcanic emissions, deliberate land modification, anthropogenic emissions of greenhouse gases, aerosols, and their precursors” (Sorteberg, n.d.).
 
 An analysis of weather events in Storslysia from 1960 to 2020 revealed regions 2, 3 and 4 as having faced higher annual average property damages incurred by hazard events. Between 2010 and 2020, the frequency of disasters trends upwards across all regions, with the impacts being the most significant in regions 2 and 3, and noticeable in regions 4 and 5. This increase is driven by the significant increase in frequency of minor and medium hazards in the past decade. (Appendix, B)
 
@@ -136,6 +135,7 @@ However, this capital structure may not be ideal for implementation - a possible
 The economic costs without the program varies under the four emission scenarios with the most notable being under a very high emission scenario in which cost rise exponentially. These figures exceed the cost with the program as recovery efforts and continuous property damages are sustained to households in high-risk areas. It is therefore in the governments best interest to implement the proposed scheme to reduce the cost post-disaster and eliminate climate risk from high-risk households.
 
 ---
+
 ## Assumptions
 A. Damage proportion caused by houses by each class of event is assumed to follow log-normal distribution with mean of 0 and normal deviation added to simulate randomness. Distribution is right skewed and non-negative which largely conforms to claim expectations. Standard deviation fitted so projects would fall within historical expectations.
 
@@ -159,6 +159,7 @@ I. All housing costs (including property value) will rise with projected inflati
 J. Citizens relocating will be completed beginning of the following year to simplify the model.
 
 ---
+
 ## Risk and Risk Mitigation Strategies
 
 ### Qualitative risk
